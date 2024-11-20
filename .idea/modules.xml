@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Function-Printf/Function-Printf/Function-Printf.iml" filepath="$PROJECT_DIR$/Function-Printf/Function-Printf/Function-Printf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Classroom_Study.iml" filepath="$PROJECT_DIR$/.idea/Java_Classroom_Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop-1/Loop-I/Loop-I.iml" filepath="$PROJECT_DIR$/Loop-1/Loop-I/Loop-I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops-II/Loops-II.iml" filepath="$PROJECT_DIR$/Loops-II/Loops-II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stdin-Stdout/Stdin-Stdout.iml" filepath="$PROJECT_DIR$/Stdin-Stdout/Stdin-Stdout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Weir-NotWeir/Weir-NotWeir.iml" filepath="$PROJECT_DIR$/Weir-NotWeir/Weir-NotWeir.iml" />
+    </modules>
+  </component>
+</project>
